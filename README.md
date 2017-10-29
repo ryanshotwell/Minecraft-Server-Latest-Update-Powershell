@@ -8,7 +8,7 @@ This script will check the official Minecraft Version Manifest from Mojang to re
 
 ## Configuration
 
-There are two methods of retrieving information about a Minecraft server.
+All configuration values are stored at the beginning of the script.
 
 ### $saveJarLocation
 This should be set to the directory that the minecraft_server.jar file is located in.
